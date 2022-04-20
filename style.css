@@ -1,0 +1,18 @@
+
+
+body{
+    background-color: rgba(68, 71, 34, 0.651);
+}
+
+.heading{
+    text-align: left;
+    color: blue;
+}
+
+.koostisosad{
+    border: 1px solid rgb(107, 21, 21);
+    width: 25%;
+    margin: 0 auto;
+    text-align: center;
+    color: darkred;
+}
